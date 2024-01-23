@@ -34,7 +34,15 @@ I'm a passionate learner and creative at heart, constantly seeking new challenge
 <img height='50' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png' /> 
 &ensp;
 <img height='50' src='https://avatars.githubusercontent.com/u/9919?s=200&v=4' /> 
-          
+&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+&ensp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
+&ensp;
+<img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+&ensp;
 <!--
 **Promingy/Promingy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
