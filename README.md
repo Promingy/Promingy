@@ -11,9 +11,7 @@ I'm a passionate learner and creative at heart, constantly seeking new challenge
 ![Corbins GitHub stats](https://github-readme-stats.vercel.app/api?username=Promingy&show_icons=true&count_private=true&theme=algolia)
 
 ## Languages and Tools
-<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-&ensp;
-<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> &ensp; <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 &ensp;
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 &ensp;
