@@ -15,14 +15,22 @@
 		  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 	</h1>
 </div>
-## Introduction
 
-My name is Corbin Ainsworth! Welcome to my Github Page:
 
-I'm a passionate learner and creative at heart, constantly seeking new challenges to fuel my growth. I welcome each opportunity and challenge with open arms, whether it's tackling complex problems or pushing creative boundaries. During my upbringing, which involved frequently relocating and during my time as professional content creator, I've learned how to adapt and thrive in fast-changing environments. Let's connect and explore the exciting possibilities together!
+<div align="center">
+	<img src="https://media.giphy.com/media/3HE6QKdb3jLDLZJME1/giphy.gif" />
+</div>
 
-## GitHub Stats
-![Corbins GitHub stats](https://github-readme-stats.vercel.app/api?username=Promingy&show_icons=true&count_private=true&theme=algolia)
+Welcome to my Github Page 🙋‍♂️ I'm Corbin!
+
+I'm a passionate learner and creative at heart, constantly seeking new challenges. I welcome each opportunity and challenge with open arms, whether it's tackling complex problems or pushing creative boundaries. During my upbringing, which involved frequently relocating, and during my time as professional content creator, I've learned how to adapt and thrive in fast-changing environments. Let's connect and explore the exciting possibilities together!
+
+---
+
+### GitHub Stats
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Promingy&show_icons=true&count_private=true&theme=algolia"/>
+</div>
 
 ## Languages and Tools
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> &ensp; <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
