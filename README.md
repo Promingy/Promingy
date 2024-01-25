@@ -32,6 +32,13 @@ I'm a passionate learner and creative at heart, constantly seeking new challenge
 	<img src="https://github-readme-stats.vercel.app/api?username=Promingy&show_icons=true&count_private=true&theme=algolia"/>
 </div>
 
+<div align='center'>
+	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Promingy&layout=compact&theme=vision-friendly-dark)
+	
+</div>
+
+
 ## Languages and Tools
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> &ensp; <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 &ensp;
