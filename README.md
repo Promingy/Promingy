@@ -21,10 +21,26 @@
 	<img src="https://media.giphy.com/media/3HE6QKdb3jLDLZJME1/giphy.gif" />
 </div>
 
-Welcome to my Github Page 🙋‍♂️ I'm Corbin!
+---
 
-I'm a passionate learner and creative at heart, constantly seeking new challenges. I welcome each opportunity and challenge with open arms, whether it's tackling complex problems or pushing creative boundaries. During my upbringing, which involved frequently relocating, and during my time as professional content creator, I've learned how to adapt and thrive in fast-changing environments. Let's connect and explore the exciting possibilities together!
+### 🤘 About Me 🤘
 
+Welcome to my Github Page, I'm Corbin!
+
+
+I'm a Full Stack Developer, I'm a passionate learner and creative at heart, constantly seeking new challenges. I welcome each opportunity and challenge with open arms, whether it's tackling complex problems or pushing creative boundaries. During my upbringing, which involved frequently relocating, and during my time as professional content creator, I've learned how to adapt and thrive in fast-changing environments. I'm a musician, VR entusiast, avid language learner, I enjoy rock climbing, calisthenics, and performing .Let's connect and explore the exciting possibilities together!
+
+- 📖 I'm currently learning Japanese, TypeScript and Piano.
+  
+- 📚 Looking to learn Django, GraphQL and improve on the skills that I do have
+  
+- 🎥 Favorite movie series: How to Train Your Dragon
+  
+- 🎵 Favorite musician: Snow Tha Product
+
+- 📫 How to reach me: 	<a href="https://www.linkedin.com/in/corbin-ainsworth-18a885232/">
+				<img height="20" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+		 	</a>
 ---
 
 ### GitHub Stats
