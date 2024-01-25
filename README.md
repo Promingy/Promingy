@@ -8,6 +8,9 @@
 		<a href="https://promingy.github.io/"> 
 			<img height="30" src="https://img.shields.io/badge/PortFolio-yellow?logo=superuser&logoColor=white&style=for-the-badge" />
 		</a>
+		<a href="/ainsworth_corbin_resume.pdf.zip"> 
+			<img height="30" src="https://img.shields.io/badge/Resume-yellow?logo=superuser&logoColor=white&style=for-the-badge" />
+		</a>
 	</div>
 	<img align="center" src="https://komarev.com/ghpvc/?username=Promingy&style=flat-square&color=blue" alt=""/>
 	<h1>
